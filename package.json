@@ -1,0 +1,24 @@
+{
+  "name": "cacheable-request",
+  "version": "999.0.0",
+  "description": "compiled version of `cacheable-request@7.0.2`",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seyoon20087/cacheable-request-compiled.git"
+  },
+  "keywords": [
+    "cacheable-request",
+    "cacheable-request-compiled",
+    "compiled"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seyoon20087/cacheable-request-compiled/issues"
+  },
+  "homepage": "https://github.com/seyoon20087/cacheable-request-compiled#readme"
+}
